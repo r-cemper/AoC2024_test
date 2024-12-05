@@ -6,3 +6,5 @@ Solutions written in ObjectScript.
 
 The repo also contains the daily progress in JSON format      
 The repo will be completed after Dec.25, 2024 
+
+[latest status](https://community.intersystems.com/post/advent-code-2024#comment-275881)
