@@ -21,3 +21,4 @@ day20: 1381 982124
 day21: 176650 217698355426872
 day22: 13584398738 1612
 day23: 1248 aa,cf,cj,cv,dr,gj,iu,jh,oy,qr,xr,xy,zb
+day24: 36902370467952 cvp,mkk,qbw,wcb,wjb,z10,z14,z34
