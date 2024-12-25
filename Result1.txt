@@ -22,3 +22,4 @@ day21: 238078 293919502998014
 day22: 20068964552 2246
 day23: 1083 as,bu,cp,dj,ez,fd,hu,it,kj,nx,pp,xh,yu
 day24: 55730288838374 fvw,grf,mdb,nwq,wpq,z18,z22,z36
+day25: 2586
